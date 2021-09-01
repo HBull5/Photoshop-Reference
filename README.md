@@ -20,4 +20,16 @@ A reference Markdown file for using Adobe Photoshop
 - **Reset Workspace Essentials:** Click Window in top tool bar > select Workspace > select Reset Essentials
 - **Save Project:** Click File in the top toolbar > Click Save or Save As respectively **NOTE:** This will save the file as a .psd extension
 - **Close Project:** Click File in the top toolbar > Click Close
-- **Open Project:** Click File in the top toolbar > Click Open > Select the image(.jpg, .jpeg, .png, etc...) or .psd file you want to work with
+- **Open Project:** Click File in the top toolbar > Click Open > Select the image(.jpg, .jpeg, .png, etc...) or .psd file you want to work with > Click Open
+- **Opening Multiple Images:** Click File in top toolbar > Click Open > Select multiple images with ( Shift + Click ) > Click Open
+- **Moving Images Accross Tabs:** Click the Move tool on the left most toolbar > Click and hold the image/asset you want to move > Drag your cursor over the tab you want to place the image > Once the new tab is displayed place the image/asset on the screen where you'd like by releasing the mouse button
+  - **NOTE:** The original tab will retain the image as if nothing happened
+
+## Image Sizing Manipulation
+- **Transform Scale:** Click the layer you want to edit in the layer panel > Click Edit from the top toolbar > Some Drag Handles will appear to resize/scale the image
+  - **NOTE:** Holding down Shift while adjusting the image will scale it proportionately
+
+## Shortcuts (Mac)
+- **Undo:** Cmd + Z
+- **Zoom In:** Cmd + +
+- **Zoom Out:**  Cmd + -
