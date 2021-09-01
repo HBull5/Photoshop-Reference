@@ -29,7 +29,7 @@ A reference Markdown file for using Adobe Photoshop
 - **Auto Color:** Click Layer you want to apply effect to > Click Image in top tool bar > select Auto Color
   - **NOTE:** No one of these automatic adjustments work the same all the time, its more of a try all three and pick the one that looks the best to you 
 - **Vibrance:** Click the adjustments tab in the right hand toolbar > Choose Vibrance (5th Icon) > Adjust Slider to your liking 
-  - **NOTE:** Virbrance & saturation basically do the same thing except vibrance does a more blended approach where things that already have a lot of saturation don't become overly saturated. 
+  - **NOTE:** Virbrance & saturation basically do the same thing except vibrance does a more blended approach where things that already have a lot of saturation don't become overly saturated. Saturation just makes everything more well, ya know saturated. 
 
 ## Image Light Manipulation 
 - Click the adjustments tab in the right hand toolbar > Choose Levels (2nd Icon) > Bring the two end arrows close to the first peak > Adjust the center one for preferred lightness/darkness that suites your design 
