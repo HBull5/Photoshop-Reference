@@ -29,7 +29,9 @@ A reference Markdown file for using Adobe Photoshop
 - **Auto Color:** Click Layer you want to apply effect to > Click Image in top tool bar > select Auto Color
   - **NOTE:** No one of these automatic adjustments work the same all the time, its more of a try all three and pick the one that looks the best to you 
 - **Vibrance:** Click the adjustments tab in the right hand toolbar > Choose Vibrance (5th Icon) > Adjust Slider to your liking 
-  - **NOTE:** Virbrance & saturation basically do the same thing except vibrance does a more blended approach where things that already have a lot of saturation don't become overly saturated. Saturation just makes everything more well, ya know saturated. 
+  - **NOTE:** Virbrance & saturation basically do the same thing except vibrance does a more blended approach where things that already have a lot of saturation don't become overly saturated. Saturation just makes everything more well, ya know saturated. General rule of thumb is somewhere around 40+/- on virbrance and don't fuck with saturation 
+- **Hue:** Click the adjustments tab > Choose Hue (6th Option)
+  - **NOTE:** The second dropdown (master by default) will allow you to pick which colors you want to adjust the hues of. The Hue slider will change the actual colors, the saturation and lightness sliders will adjust those properties for whatever is selected in that second dropdown 
 
 ## Image Light Manipulation 
 - Click the adjustments tab in the right hand toolbar > Choose Levels (2nd Icon) > Bring the two end arrows close to the first peak > Adjust the center one for preferred lightness/darkness that suites your design 
@@ -38,3 +40,4 @@ A reference Markdown file for using Adobe Photoshop
 - **Transform Scale:** Click the layer you want to edit in the layer panel > Click Edit from the top toolbar > Some Drag Handles will appear to resize/scale the image
   - **NOTE:** Holding down Shift while adjusting the image will scale it un-proportionately or vice-versa depending on settings
   - **NOTE:** Enter will end the transform so you can free up photoshop to do other manipulations 
+- **
